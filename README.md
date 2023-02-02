@@ -58,17 +58,14 @@ To see Sohidul's full portfolio and to get a better understanding of their skill
 
 🧠 I'm currently learning Advanced tools like Web libraries and frameworks
 
-👯‍♀️ I'm looking to collaborate on...
-
 🤔 I'm looking for help with...
 
-💬 Ask me about 
+💬 Ask me about MERN
 
-📫 How to reach me...
+📫 How to reach me sishufol.sim@gmail.com
 
-😄 Pronouns...
+😄 Pronouns Sho-hi-dul Is-lam
 
-⚡️ Fun fact...
 
 
 ## Contact

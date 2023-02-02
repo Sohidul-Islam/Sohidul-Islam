@@ -17,11 +17,12 @@ A full-stack developer specializing in the MERN (MongoDB, Express, React, and No
 
 ## 🛠 Skills
 + Strong proficiency in JavaScript, HTML, CSS, and React.
++ Strong proficiency in FIGMA UI/UX design.
 + Experience with MongoDB, Express, and Node.js.
 + Strong understanding of RESTful API design and implementation.
 + Familiarity with modern front-end tools such as Webpack and Babel.
 + Experience with Git and Github for version control and collaboration.
-+ Also have problem solving skills by C++
++ Also have problem solving skills by C++.
 
 
 ## Portfolio
@@ -30,8 +31,8 @@ Here are some related projects
 
 Sohidul has worked on a variety of projects, including:
 - A dashboard for visualizing data analytics for a small business.
-- A Ecommerce site to purchasing some products
-- A point of sale to maintain business quality
+- A Ecommerce site to purchasing some products.
+- A point of sale to maintain business quality.
 - A doctors portal site to get appointment of doctors from this site.
 To see Sohidul's full portfolio and to get a better understanding of their skills and experience, feel free to [visit their portfolio](https://github.com/Sohidul-Islam/portfolio1).
 
@@ -54,13 +55,13 @@ To see Sohidul's full portfolio and to get a better understanding of their skill
 
 
 ## Let you know more about me
-👩‍💻 I'm currently working on Audio Classification on ML and DL also
+👩‍💻 I'm currently working on Audio Classification on ML and DL also.
 
-🧠 I'm currently learning Advanced tools like Web libraries and frameworks
+🧠 I'm currently learning Advanced tools like Web libraries and frameworks.
 
 🤔 I'm looking for help with...
 
-💬 Ask me about MERN
+💬 Ask me about MERN like MongoDB, ExpressJS, React, NodeJs, also can ask about JS, ES6, Machine learning and Deep learning Concepts.
 
 📫 How to reach me sishufol.sim@gmail.com
 

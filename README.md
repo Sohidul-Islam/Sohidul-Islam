@@ -53,7 +53,7 @@ To see Sohidul's full portfolio and to get a better understanding of their skill
 **Database:** MySql, MongoDB
 
 
-## Other Common Github Profile Sections
+## Let you know more about me
 👩‍💻 I'm currently working on Audio Classification on ML and DL also
 
 🧠 I'm currently learning Advanced tools like Web libraries and frameworks
